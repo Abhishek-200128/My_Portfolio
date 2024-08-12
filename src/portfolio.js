@@ -26,7 +26,7 @@ const greeting = {
     "A committed and ambitious data science professional who is currently studying in Monash University's Master of Data Science programme in Melbourne, Australia. I am excited to work with data and usually love wrangling and visualising data.",
   resumeLink:
     "https://drive.google.com/file/d/1wcVDLbhBlo-5RhUBumE-MPAAZanSInAa/view?usp=share_link",
-  portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
+  portfolio_repository: "https://github.com/Abhishek-200128/masterPortfolio-1",
   githubProfile: "https://github.com/Abhishek-200128",
 };
 
@@ -320,7 +320,7 @@ const publications = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "animated_ashutosh.png",
+    profile_image_path: "myicon.png",
     description:
       "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, and Web Development.",
   },
