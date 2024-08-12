@@ -9,7 +9,7 @@ const settings = {
 const seo = {
   title: "Abhishek's Portfolio",
   description:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "A committed and ambitious data science professional who is currently studying in Monash University's Master of Data Science programme in Melbourne, Australia. I am excited to work with data and usually love wrangling and visualising data.",
   og: {
     title: "Abhishek Sivananthan Portfolio",
     type: "website",
@@ -23,11 +23,11 @@ const greeting = {
   logo_name: "AbhishekSivananthan",
   nickname: "decisive_candy",
   subTitle:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "A committed and ambitious data science professional who is currently studying in Monash University's Master of Data Science programme in Melbourne, Australia. I am excited to work with data and usually love wrangling and visualising data.",
   resumeLink:
-    "https://drive.google.com/file/d/1bXRknv_h-XI_3CQ3SGPteGODtvEb7YvI/view?usp=sharing",
+    "https://drive.google.com/file/d/1wcVDLbhBlo-5RhUBumE-MPAAZanSInAa/view?usp=share_link",
   portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
-  githubProfile: "https://github.com/ashutosh1919",
+  githubProfile: "https://github.com/Abhishek-200128",
 };
 
 const socialMediaLinks = [
@@ -78,7 +78,7 @@ const skills = {
       softwareSkills: [
         {
           skillName: "R Programming",
-          fontAwesomeClassname: "logos-tensorflow",
+          fontAwesomeClassname: "devicon-rstudio",
           style: {
             backgroundColor: "transparent",
           },
@@ -93,7 +93,15 @@ const skills = {
         },
         {
           skillName: "Apache Spark",
-          fontAwesomeClassname: "ion-logo-python",
+          fontAwesomeClassname: "devicon-apachespark-wordmark",
+          style: {
+            backgroundColor: "transparent",
+            color: "#3776AB",
+          },
+        },
+        {
+          skillName: "Apache Kafka",
+          fontAwesomeClassname: "devicon-apachekafka-wordmark",
           style: {
             backgroundColor: "transparent",
             color: "#3776AB",
@@ -132,8 +140,8 @@ const skills = {
           },
         },
         {
-          skillName: "Apache Struts",
-          fontAwesomeClassname: "simple-icons:react",
+          skillName: "Java",
+          fontAwesomeClassname: "logos-java",
           style: {
             color: "#61DAFB",
           },
@@ -149,7 +157,7 @@ const degrees = {
     {
       title: "Kumaraguru College of Technology",
       subtitle: "B.E. in Information Science and Engineering",
-      logo_path: "iiitk_logo.png",
+      logo_path: "kct_logo.png",
       alt_name: "IIITDM Kurnool",
       duration: "2018 - 2022",
       descriptions: [
@@ -157,19 +165,19 @@ const degrees = {
         "⚡ Apart from this, I have done courses on Machine Learning, Data Science Full Stack Development.",
         "⚡ I passed with distinction.",
       ],
-      website_link: "http://iiitk.ac.in",
+      website_link: "https://kct.ac.in",
     },
     {
       title: "Monash University",
       subtitle: "Master of Data Science",
-      logo_path: "iu_logo.png",
+      logo_path: "monash_logo.png",
       alt_name: "Indiana University Bloomington",
       duration: "2023 - 2024",
       descriptions: [
         "⚡ I have taken varity of courses related to big data processing, data wrangling and machine learning which helped my gather a vast knowledge regarding the field",
         "⚡ During my time at university, I was involved in an industry project with a group of 5 memebers where we developed an IT solution regarding climate change in Australia.",
       ],
-      website_link: "https://www.indiana.edu/",
+      website_link: "https://www.monash.edu",
     },
   ],
 };
@@ -179,47 +187,47 @@ const certifications = {
     {
       title: "Machine Learning",
       subtitle: "- Coursera",
-      logo_path: "stanford_logo.png",
+      logo_path: "coursera.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/22MTSSC5WDTM",
+        "https://drive.google.com/file/d/1SVIVj2xNbBEgRZjKYXk97nqRY5Xv0yAE/view?usp=share_link",
       alt_name: "Stanford University",
-      color_code: "#8C151599",
+      color_code: "#0056D1",
     },
     {
       title: "Text Retreival and Search Engines",
       subtitle: "- Coursera",
-      logo_path: "deeplearning_ai_logo.png",
+      logo_path: "coursera.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/specialization/H8CPSFXAJD2G",
+        "https://drive.google.com/file/d/1nD7qwsQDHS8PXWuZ6IO52HVHibR195Df/view?usp=share_link",
       alt_name: "deeplearning.ai",
-      color_code: "#00000099",
+      color_code: "#0056D1",
     },
     {
       title: "Introduction to Data Science - Python",
       subtitle: "- Coursera",
-      logo_path: "google_logo.png",
+      logo_path: "coursera.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/specialization/EB4VJARK8647",
+        "https://drive.google.com/file/d/1Zg7g7AjTQb9wDWxjlEN6sUM-m9HaHVRg/view?usp=share_link",
       alt_name: "Google",
-      color_code: "#0C9D5899",
+      color_code: "#0056D1",
     },
     {
       title: "Server-side Development with NodeJS, Express and MongoDB",
       subtitle: "- Coursera",
-      logo_path: "ibm_logo.png",
+      logo_path: "coursera.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/specialization/PLEAPCSJBZT5",
+        "https://drive.google.com/file/d/1k8Yo5sq-R_s1MyjVgUh3nWWzUxq8aY5W/view?usp=share_link",
       alt_name: "IBM",
-      color_code: "#1F70C199",
+      color_code: "#0056D1",
     },
     {
       title: " Cyber Security Essentials",
       subtitle: "- Cisco",
-      logo_path: "microsoft_logo.png",
+      logo_path: "cisco-logo.png",
       certificate_link:
-        "https://drive.google.com/file/d/164zKCFOsI4vGqokc-Qj-e_D00kLDHIrG/view",
+        "https://drive.google.com/file/d/1ItViSaEKg7C90l82iRbG95XQnCvC6mwP/view?usp=share_link",
       alt_name: "Microsoft",
-      color_code: "#D83B0199",
+      color_code: "#FFFFFF",
     },
   ],
 };
@@ -240,7 +248,7 @@ const experience = {
           title: "Software Engineer",
           company: "Zoho Corporation",
           company_url: "https://www.tiktok.com/en/",
-          logo_path: "tiktok_logo.png",
+          logo_path: "zoho_logo.jpg",
           duration: "May 2022 - Dec 2022",
           location: "Chennai, Tamilnadu, India",
           description:
@@ -256,7 +264,7 @@ const experience = {
           title: "Software Engineer Intern",
           company: "Zoho Corporation",
           company_url: "https://legatohealthtech.com/",
-          logo_path: "legato_logo.png",
+          logo_path: "zoho_logo.jpg",
           duration: "Aug 2021 - Apr 2022",
           location: "Chennai, Tamilnadu, India",
           description:
@@ -272,7 +280,7 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects makes use of vast variety of latest technology tools. My best experience is to create Data Science projects and deploy them to web applications using cloud infrastructure.",
+    "My projects makes use of vast variety of latest technology tools. My best experience is to create Data Science projects and simple Web Applications.",
   avatar_image_path: "projects_image.svg",
 };
 
