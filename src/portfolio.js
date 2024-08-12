@@ -252,7 +252,7 @@ const experience = {
           duration: "May 2022 - Dec 2022",
           location: "Chennai, Tamilnadu, India",
           description:
-            "Optimizing server performance and improving the general user experince of the product with the help of Apache Struts and JSP (Java Servlet Pages)",
+            "Optimizing server performance and improving the general user experience of the product with the help of Apache Struts and JSP (Java Servlet Pages)",
           color: "#000000",
         },
       ],
