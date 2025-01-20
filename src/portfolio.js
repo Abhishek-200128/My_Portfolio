@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "A committed and ambitious data science professional who is currently studying in Monash University's Master of Data Science programme in Melbourne, Australia. I am excited to work with data and usually love wrangling and visualising data.",
   resumeLink:
-    "https://drive.google.com/file/d/1wcVDLbhBlo-5RhUBumE-MPAAZanSInAa/view?usp=share_link",
+    "https://drive.google.com/file/d/1A4rC0mtXkrlk0bBWhwdzpSA3XvlcYJCl/view?usp=share_link",
   portfolio_repository: "https://github.com/Abhishek-200128/masterPortfolio-1",
   githubProfile: "https://github.com/Abhishek-200128",
 };
