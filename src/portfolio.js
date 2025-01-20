@@ -155,6 +155,18 @@ const skills = {
 const degrees = {
   degrees: [
     {
+      title: "Monash University",
+      subtitle: "Master of Data Science",
+      logo_path: "monash_logo.png",
+      alt_name: "Indiana University Bloomington",
+      duration: "2023 - 2024",
+      descriptions: [
+        "⚡ I have taken varity of courses related to big data processing, data wrangling and machine learning which helped my gather a vast knowledge regarding the field",
+        "⚡ During my time at university, I was involved in an industry project with a group of 5 memebers where we developed an IT solution regarding climate change in Australia.",
+      ],
+      website_link: "https://www.monash.edu",
+    },
+    {
       title: "Kumaraguru College of Technology",
       subtitle: "B.E. in Information Science and Engineering",
       logo_path: "kct_logo.png",
@@ -166,18 +178,6 @@ const degrees = {
         "⚡ I passed with distinction.",
       ],
       website_link: "https://kct.ac.in",
-    },
-    {
-      title: "Monash University",
-      subtitle: "Master of Data Science",
-      logo_path: "monash_logo.png",
-      alt_name: "Indiana University Bloomington",
-      duration: "2023 - 2024",
-      descriptions: [
-        "⚡ I have taken varity of courses related to big data processing, data wrangling and machine learning which helped my gather a vast knowledge regarding the field",
-        "⚡ During my time at university, I was involved in an industry project with a group of 5 memebers where we developed an IT solution regarding climate change in Australia.",
-      ],
-      website_link: "https://www.monash.edu",
     },
   ],
 };
@@ -247,7 +247,7 @@ const experience = {
         {
           title: "Software Engineer",
           company: "Zoho Corporation",
-          company_url: "https://www.tiktok.com/en/",
+          company_url: "https://www.zoho.com/",
           logo_path: "zoho_logo.jpg",
           duration: "May 2022 - Dec 2022",
           location: "Chennai, Tamilnadu, India",
@@ -263,7 +263,7 @@ const experience = {
         {
           title: "Software Engineer Intern",
           company: "Zoho Corporation",
-          company_url: "https://legatohealthtech.com/",
+          company_url: "https://www.zoho.com/",
           logo_path: "zoho_logo.jpg",
           duration: "Aug 2021 - Apr 2022",
           location: "Chennai, Tamilnadu, India",
