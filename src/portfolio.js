@@ -9,7 +9,7 @@ const settings = {
 const seo = {
   title: "Abhishek's Portfolio",
   description:
-    "A committed and ambitious data science professional who is currently studying in Monash University's Master of Data Science programme in Melbourne, Australia. I am excited to work with data and usually love wrangling and visualising data.",
+    "A committed and ambitious data science professional who graduated from Monash University's Master of Data Science programme in Melbourne, Australia. I am excited to work with data and usually love wrangling and visualising data.",
   og: {
     title: "Abhishek Sivananthan Portfolio",
     type: "website",
@@ -23,7 +23,7 @@ const greeting = {
   logo_name: "AbhishekSivananthan",
   nickname: "decisive_candy",
   subTitle:
-    "A committed and ambitious data science professional who is currently studying in Monash University's Master of Data Science programme in Melbourne, Australia. I am excited to work with data and usually love wrangling and visualising data.",
+    "A committed and ambitious data science professional who graduated from Monash University's Master of Data Science programme in Melbourne, Australia. I am excited to work with data and usually love wrangling and visualising data.",
   resumeLink:
     "https://drive.google.com/file/d/1A4rC0mtXkrlk0bBWhwdzpSA3XvlcYJCl/view?usp=share_link",
   portfolio_repository: "https://github.com/Abhishek-200128/masterPortfolio-1",
