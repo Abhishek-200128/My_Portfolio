@@ -168,7 +168,7 @@ const degrees = {
     },
     {
       title: "Kumaraguru College of Technology",
-      subtitle: "B.E. in Information Science and Engineering",
+      subtitle: "Bachelor of Engineering - Information Science and Engineering",
       logo_path: "kct_logo.png",
       alt_name: "IIITDM Kurnool",
       duration: "2018 - 2022",
